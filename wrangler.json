@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "ssh",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1252778f-ea07-4a3b-ba9e-a22dff82ca63",
+			"database_name": "sshcodes"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
